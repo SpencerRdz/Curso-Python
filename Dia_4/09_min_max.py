@@ -9,3 +9,6 @@ print(f'El valor máximo es: {maximo}')
 nombres = ["Ana", "Luis", "Carlos"]
 print(f'El nombre menor en orden alfabético es: {min(nombres)}') 
 print(f'El nombre mayor en orden alfabético es: {max(nombres)}')
+
+nombre = "sofía"
+print(f'La letra menor en orden alfabético es: {min(nombre)}') #La funcion es sensible a mayúsculas y minúsculas
